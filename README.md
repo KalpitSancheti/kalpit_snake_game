@@ -1,2 +1,2 @@
-# kalpitdonsnake
+# snake game
 the snake game
